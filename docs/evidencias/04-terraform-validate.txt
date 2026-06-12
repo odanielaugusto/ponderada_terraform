@@ -1,0 +1,4 @@
+﻿PS> .\bin\tf.ps1 validate -no-color
+Executado em: 2026-06-12 20:40:14 -03:00
+
+Success! The configuration is valid.

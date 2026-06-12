@@ -1,0 +1,6 @@
+﻿PS> .\bin\tf.ps1 -version
+Executado em: 2026-06-12 20:39:46 -03:00
+
+Terraform v1.15.6
+on windows_amd64
++ provider registry.terraform.io/hashicorp/aws v5.100.0
