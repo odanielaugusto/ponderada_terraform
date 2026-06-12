@@ -16,6 +16,7 @@ terraform.rc
 # Local tools and generated plans
 .tools/
 *.tfplan
+tfplan
 plan.json
 
 # OS and editor files
