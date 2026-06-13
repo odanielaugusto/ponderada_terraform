@@ -1,0 +1,14 @@
+﻿PS> .\scripts\validar-http.ps1
+Executado em: 2026-06-12 21:33:38 -03:00
+
+status=200 url=http://54.218.209.144
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <title>ponderada-terraform - dev</title>
+    <style>
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;

@@ -1,0 +1,10 @@
+﻿PS> .\bin\tf.ps1 output -no-color
+Executado em: 2026-06-12 21:32:32 -03:00
+
+ami_id = "ami-096f5760b00bcd95c"
+instance_id = "i-04b7a6b23d56d4e27"
+instance_public_ip = "54.218.209.144"
+public_subnet_id = "subnet-08f4259a756871001"
+security_group_id = "sg-06d04f3ec357f8dda"
+vpc_id = "vpc-09342f3af5a5b160f"
+web_url = "http://54.218.209.144"

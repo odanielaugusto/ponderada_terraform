@@ -1,0 +1,19 @@
+﻿PS> .\bin\tf.ps1 plan -input=false -no-color
+Executado em: 2026-06-12 21:35:03 -03:00
+
+data.aws_availability_zones.available: Reading...
+data.aws_ami.ubuntu: Reading...
+aws_vpc.main: Refreshing state... [id=vpc-09342f3af5a5b160f]
+data.aws_availability_zones.available: Read complete after 0s [id=us-west-2]
+data.aws_ami.ubuntu: Read complete after 2s [id=ami-096f5760b00bcd95c]
+aws_internet_gateway.main: Refreshing state... [id=igw-00a33a3fc66444eed]
+aws_subnet.public: Refreshing state... [id=subnet-08f4259a756871001]
+aws_security_group.web: Refreshing state... [id=sg-06d04f3ec357f8dda]
+aws_route_table.public: Refreshing state... [id=rtb-0fd6bae012cfa971d]
+aws_route_table_association.public: Refreshing state... [id=rtbassoc-030754bd58e50bf0a]
+aws_instance.app_server: Refreshing state... [id=i-04b7a6b23d56d4e27]
+
+No changes. Your infrastructure matches the configuration.
+
+Terraform has compared your real infrastructure against your configuration
+and found no differences, so no changes are needed.
